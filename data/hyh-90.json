@@ -1,0 +1,9 @@
+{
+  "contest": 137,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "YearnCurveVaultOperator's depositETH can leave the remainder ETH funds frozen and unaccounted for, then utilized by another caller",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2022-06-nested-findings/issues/90"
+}
